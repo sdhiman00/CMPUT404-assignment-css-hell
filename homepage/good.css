@@ -1,0 +1,34 @@
+.title {
+    margin-bottom: 0;
+}
+
+.description {
+    margin-top: 0;
+}
+
+.sidenav {
+    height: 100%; 
+    width: 450px; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #E6CBA8;
+    padding-top: 20px;
+  }
+
+main {
+    margin-left: 450px;
+    padding: 10px 10px;
+  }
+
+.skills {
+    padding-left: 3rem;
+}
+
+body {
+    background-color: #FDF0E0;
+}
+
+img {
+    padding-left: 3rem;
+}

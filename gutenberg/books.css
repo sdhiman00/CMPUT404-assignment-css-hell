@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(0,0,0);
+    background-image:url(http://www.zingerbugimages.com/backgrounds/parchment_paper_wallpaper_texture_seamless.jpg);
+    background-position:top left;
+    background-repeat:repeat;
+    background-attachment:fixed;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+}
+
+h1 {
+    color: #391D0C;
+    font-size: 5rem;
+}
+
+h2, h3 {
+    font-size: 3rem;
+    color: #482611;
+}
+
+p {
+	text-indent: 1em;
+	margin-top: .5em;
+	margin-bottom: .5em;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+    font-weight: 900;
+}
+
+a:link {
+   color: #863E15
+}
+
+a:hover {
+    color:#F2CF0D
+}
+
+div.fig { 
+    margin: 0 auto;
+    margin-top: 3em;
+    margin-bottom: 1em;
+}
