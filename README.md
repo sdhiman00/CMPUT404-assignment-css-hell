@@ -21,4 +21,4 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-
+Part 1: I removed the existing CSS in the project gutenberg HTML files and instead referenced the CSS file I created. I also added the links to the Google fonts that I used. 
